@@ -5,7 +5,11 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
+<<<<<<< HEAD
 	<string>FC171C85-100A-48A3-82C3-DA7B57B7D913</string>
+=======
+	<string>8BB0C432-870E-4D08-8FB2-5C6755EF0B1A</string>
+>>>>>>> 14e7f4acb117474eb39929d10bf82b01c0745ef2
 	<key>IDESourceControlProjectName</key>
 	<string>FirstApp</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -34,7 +38,11 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>12DDE10243164D8FE0455CFC57D81ACBB854250D</string>
 			<key>IDESourceControlWCCName</key>
+<<<<<<< HEAD
 			<string>FirstApp</string>
+=======
+			<string>temp</string>
+>>>>>>> 14e7f4acb117474eb39929d10bf82b01c0745ef2
 		</dict>
 	</array>
 </dict>
